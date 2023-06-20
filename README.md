@@ -48,8 +48,8 @@ Example Request:
     
     `GET /weather/90060`
 Example Response:
-  
-  `{
+  ```shell
+  {
     "Maximum Temp": "33.5",
     "Departure from Normal": "2",
     "Minimum Temp": "26.4",
@@ -60,8 +60,4 @@ Example Response:
     "Tomorrow's Sunrise": "06:05",
     "Moonset": "20:53",
     "Moonrise": "07:42"
-  }`
-  
-
- 
-
+  }
